@@ -1,0 +1,7 @@
+jobs/
+raw/
+out/
+*.pdf
+译文/_parts/
+.obsidian/workspace*
+.obsidian/cache
